@@ -1,2 +1,6 @@
-# TravelCompass-2
-Java program for the Class Diagram for Travel Compass 
+Name: Ahmed Masoud Baghni
+NIM: 20230040030
+
+CHECK THE "MASTER BRANCH"
+
+THIS BRANCH (MAIN) CONTAINS THE ZIP FILE FOR THE CLASS JAVA PROGRAM FOR TRAVEL COMPASS
